@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Scanner</string>
+
+    <string name="choose_image">انتخاب عکس</string>
+    <string name="open_camera">دوربین</string>
+    <string name="choose_from_gallery">گالری</string>
+    <string name="delete_picture">حذف عکس</string>
+
+</resources>
