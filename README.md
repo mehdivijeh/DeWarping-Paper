@@ -1,2 +1,2 @@
-# UnWrapperPaper for android 
-this project unwrap papers.
+# Dewarping paper for android with openCv lib
+
